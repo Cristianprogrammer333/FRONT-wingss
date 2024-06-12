@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js --exec babel-node",
+<<<<<<< HEAD
      "build": "babel src -d dist"
+=======
+    "build": "babel src -d dist"
+>>>>>>> 7d9777336163e5b6221992977f17c82fbbe9e7ef
   },
   
   "keywords": [],
